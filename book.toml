@@ -1,0 +1,6 @@
+[book]
+authors = ["Nikolay Kuleshov"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Docs as code demo"
