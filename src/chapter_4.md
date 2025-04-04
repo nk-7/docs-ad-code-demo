@@ -1,6 +1,6 @@
 # Часть 4
 
-Пример кода на SQL
+Пример кода на SQL - триггер.
 
 ```sql
 INSERT INTO legal_and_merchant.legal_data (
